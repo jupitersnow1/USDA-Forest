@@ -10,7 +10,7 @@ GeoData Collection <br>
   
 <br>
 Resources: 
-[Collect Earth Online (CEO)](https://www.collect.earth/)  
+[Collect Earth Online (CEO)](https://www.collect.earth/)  <br>
 [Google Earth Engine](https://earthengine.google.com/)
 
 What CEO used for?: <br> 
