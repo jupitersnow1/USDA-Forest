@@ -1,8 +1,10 @@
+Hi there I noticed you digged deeper into this repository
+
 I’m excited to share this journey! 
 
 I take notes during every meeting and have many handwritten notes that I’ll be importing gradually as I analyze them individually again.
 
-I’m thrilled about the opportunity to work with professionals from the USDA Forest Service and receive their guidance. I’m also looking forward to collaborating with a dynamic team that shares my enthusiasm.
+I’m ecstatic about the opportunity to work with professionals from the USDA Forest Service and receive their guidance. I’m also looking forward to collaborating with a dynamic talented team of individuals that share my enthusiasm.
 I am so thrilled by the amount of new things I am learning as I explore many aspect of Geo Spatial Data Analysis!
 
 
@@ -15,7 +17,7 @@ Have a nice day! (:
 
 Jacqi
 
+![Cat GIF](cool_cat.gif)
 
-![Cat GIF](b_week/z.media/cool_cat.gif)
 Lets explore on 😎
 
