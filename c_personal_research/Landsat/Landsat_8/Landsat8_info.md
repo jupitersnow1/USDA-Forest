@@ -53,6 +53,7 @@ advances in the use of public domain satellite imagery for mineral exploration: 
 and Sentinel-2 applications, Ore Geology Reviews, Vol. 117, 2020, Article 103332, https://doi.org/10.1016/j.oregeorev.2020.103332.
 
 
+Enhanced Thematic Mapper Plus (ETM+)
 
 
 
