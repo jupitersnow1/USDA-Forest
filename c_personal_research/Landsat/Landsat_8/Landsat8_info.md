@@ -10,7 +10,8 @@ October 24, 2024
 - Landsat 8 was first in the Landsat series to provide near real-time data **access to the public** upon its launch
 
 
-- distinct from its predecessors due to its Enhanced Thematic Mapper Plus (ETM+) and **Operational Land Imager (OLI)** sensors
+- distinct from its predecessors due to its Thermal Infrared Sensor (TIRS) and **Operational Land Imager (OLI)** sensors. 
+- Updates Enhanced Thematic Mapper (ETM+) was actually first introduced as part of the Landsat 7 instruments.   
 
 
 ## Landsat 8 Architecture
