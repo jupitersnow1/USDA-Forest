@@ -1,0 +1,12 @@
+---
+:id: 284592578
+:submitters:
+- :name: Jacqueline Sanchez
+  :email: jsanchez75@uh.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-01 19:53:14.409844000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-01 12:53:14.409844000 Z
+:status: processed
+:score: 9.0
