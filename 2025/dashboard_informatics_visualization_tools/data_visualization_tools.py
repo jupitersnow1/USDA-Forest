@@ -1,5 +1,11 @@
 # Description: This script contains the libraries that will be used for data visualization in the 2025 project.
 
+# correlation matrix 
+# pair plot 
+# summary statistics
+# geometries
+
+
 import pickle # to read from pkl files
 import pandas as pd
 
@@ -140,3 +146,22 @@ class Visualizer:
                 break
             else:
                 print("Invalid choice. Please enter a number between 1 and 5.")
+
+#
+# # import the class from the script
+# from visualization_tool import Visualizer
+# import seaborn as sb
+
+# # Create a Visualizer object with sample data
+# visualizer = Visualizer(data=sb.load_dataset('iris'))
+
+# # optionally, you can show various visualizations:
+# visualizer.show_corr_matrix()  # show the correlation matrix
+# visualizer.show_pair_plot()    # show the pair plot
+# visualizer.show_summary_stats() # show summary statistics
+
+# # if you have geospatial data (GeoDataFrame), you can plot geometries:
+# # visualizer.plot_geometries()
+
+# # alternatively, invoke the interactive menu
+# visualizer.interactive_menu()
